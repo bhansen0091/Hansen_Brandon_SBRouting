@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Brandon\Desktop\CodingDojo\repos\JAVA\Spring\Hansen_Brandon_SBRouting\.metadata\.plugins\org.eclipse.jdt.core
-601239778.index
